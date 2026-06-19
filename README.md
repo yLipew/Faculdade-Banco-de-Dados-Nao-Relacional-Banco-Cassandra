@@ -4,6 +4,13 @@
 > **Curso:** Análise e Desenvolvimento de Sistemas — FATESG  
 > **Semestre:** 2º Semestre · 2026/1  
 
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![DataStax](https://img.shields.io/badge/DataStax%20Astra-FF6F00?style=for-the-badge&logo=datastax&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20us--east--2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Stargate-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+
 ---
 
 ## 📌 Sobre o Projeto
